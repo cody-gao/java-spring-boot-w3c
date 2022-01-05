@@ -1,0 +1,4 @@
+home:
+  province: 北京市
+  city: 北京
+  desc: 我家住在${home.province}的${home.city}
